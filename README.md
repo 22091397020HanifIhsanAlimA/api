@@ -19,7 +19,7 @@
   <h3>	FAKULTAS VOKASI </h>
   <h3>	UNIVERSITAS NEGERI SURABAYA </h>
   <h3>	2024 </h>
-</div>
+
 
 ![image](https://github.com/22091397020HanifIhsanAlimA/api/assets/144103344/f0e1a95e-f81e-4ae5-8b23-4eaa9161f0bc)
 
@@ -54,5 +54,6 @@
 
 
 ![image](https://github.com/22091397020HanifIhsanAlimA/api/assets/144103344/e2205bda-a6a1-494e-b5fe-d6c92198b634)
+</div>
 
 
