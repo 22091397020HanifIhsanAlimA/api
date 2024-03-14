@@ -1,4 +1,23 @@
 # api
+<div align="center">
+  <h1>	DOKUMENTASI OPEN API </h1>
+  <h1>	Kelompok 3 </h1>
+  <h2>	Disusun Oleh : </h2>
+  <p>	 Hanif Ihsan Alim Akbar - 22091397020 </p>
+  <p>	 Adelia Salsabila - 22091397022 </p>
+  <p>	 Dwi Putra Afillianto - 22091397025 </p>
+
+  <p>	 Link Github : </p>
+  <p>  https://github.com/22091397020HanifIhsanAlimA/api </p>
+  <h3>	Dosen Pengampu: </h>
+  <h3>	Andi Iwan Nurhidayat, S.Kom., M.T. </h>
+
+
+  <h3>	PRODI D4 MANAJEMEN INFORMATIKA </h>
+  <h3>	FAKULTAS VOKASI </h>
+  <h3>	UNIVERSITAS NEGERI SURABAYA </h>
+  <h3>	2024 </h>
+</div>
 
 ![image](https://github.com/22091397020HanifIhsanAlimA/api/assets/144103344/f0e1a95e-f81e-4ae5-8b23-4eaa9161f0bc)
 
